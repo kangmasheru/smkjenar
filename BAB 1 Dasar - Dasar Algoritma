@@ -1,0 +1,18 @@
+DASAR - DASAR ALGORITMA
+Asal kata Algoritma berasal dari nama Abu Ja’far Mohammed Ibn Musa al-Khowarizmi, ilmuan Persia yang menulis kitab al jabr w’al-muqabala (rules of restoration and reduction) sekitar tahun 825 M.
+Algoritma adalah urutan langkah logis tertentu untuk memecahkan suatu masalah. Hal ini ditekankan padaah. Hal ini ditekankan adala urutan langkah logis, yang berarti algoritma harus mengikuti suatu urutan tertentu, tidak boleh melompat-lompat.
+Alur pemikiran dalam menyelesaikan suatu pekerjaan yang dituangkan secara tertulis. Hal pertama yang ditekankan adalah alur pikiran, sehingga algoritma seseorang dapat juga berbeda dari algoritma orang lain. Sedangkan penekanan kedua adalah tertulis, yang artinya dapat berupa kalimat, gambar, atau tabel tertentu.
+Definisi Algoritma adalah urutan langkah-langkah logis penyelesaian masalah yang disusun secara sistematis.
+Contoh; Algoritma TUKAR ISI BEJANA
+Diberikan dua buah bejana A dan B, bejana A berisi larutan berwarna merah, bejana B berisi larutan berwarna biru. Pertukarkan isi kedua bejana itu sedemikian sehingga bejana A berisi larutan berwarna biru dan bejana B berisi larutan berwarna merah.
+DESKRIPSI :
+– Tuangkan larutan dari bejana A ke dalam bejana B
+– Tuangkan larutan dari bejana B ke dalam bejana A.
+Algoritma TUKAR ISI BEJANA di atas tidak menghasilkan pertukaran yang benar. Langkah di atas tidak logis, hasil pertukaran yang terjadi adalah percampuran kedua larutan tersebut.
+Untuk mempertukarkan isi duah bejana, diperlukan sebuah bejana tambahan sebagai tempat penampungan sementara, misalnya bejana C. Maka algoritma untuk menghasilkan pertukaran yang benar adalah sebagai berikut :
+Algoritma  Tukar Isi Bejana
+Diberikan dua buah bejana A dan B, bejana A berisi larutan berwarna merah, bejana B berisi larutan berwarna biru. Pertukarkan isi kedua bejana itu sedemikian sehingga bejana A berisi larutan berwarna biru dan bejana B berisi larutan berwarna merah.
+DESKRIPSI :
+Tuangkan larutan dari bejana A ke dalam bejana C.
+Tuangkan larutan dari bejana B ke dalam bejana A.
+Tuangkan larutan dari bejana C ke dalam bejana B.
